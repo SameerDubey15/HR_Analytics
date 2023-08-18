@@ -4,7 +4,7 @@ In today's dynamic business landscape, effective Human Resources (HR) management
 
 ## Project Overview:
 
-This HR data analysis and visualization project aims to extract actionable insights from a company's HR database using SQL and then visually represent these insights using Python libraries. The project workflow involves several key steps:
+This HR data analysis and visualization project aims to extract actionable insights from a company's HR database using SQL and then visually represent these insights using Power BI. The project workflow involves several key steps:
 
 1. **Data Extraction and Preparation:** Retrieve HR-related data from the organization's database using SQL queries. This could include employee demographics, performance metrics, compensation details, training records, and other relevant data points. Cleanse and preprocess the data to ensure accuracy and consistency.
 
